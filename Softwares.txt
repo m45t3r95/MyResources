@@ -1,0 +1,45 @@
+1. Windows 10 pro
+2. VMware Workstation Pro
+3. Kali Linux
+4. Parrot Security
+5. Blackarch
+6. Ubuntu
+7. Windows Server
+8. Android
+9. Metasploitable 2
+10. Npcap
+11. Nmap + Zenmap
+12. Wireshark
+13. Nessus Vulnerability Scanner
+14. OpenVAS Vulnerability Scanner
+15. N-Stalker Vulnerability Scanner
+16. Vega Vulnerability Scanner
+17. Acunetix Vulnerability Scanner
+18. Netsparker Vulnerality Scanner
+19. Visual Code Studio
+20. Google Chrome Browser
+21. Firefox Browser
+22. Burp Suite Pro 
+23. OWASP ZAP
+24. Java JDK 15.0.2
+25. WSL ( Kali Linux)
+26. Telegram Desktop
+27. Intellij IDEA for Java Programming
+28. Free Download Manager
+29. Internet Download Manager (IDM)
+30. VLC Media Player
+31. Spotify
+32. Putty
+33. Filezilla Client
+34. Xampp Server
+35. Damn Vulnerable Web Application (DVWA)
+36. Mutillidae
+37. Webgoat + Webwolf
+38. Wordpress CMS
+39. MySQL Server
+40. Adobe Acrobat Reader DC
+41. Microsoft Office
+42. Winrar
+43. TOR Browser
+44. Qbittorrent
+45. OpenVPN
